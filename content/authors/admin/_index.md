@@ -10,7 +10,7 @@ last_name: Du
 
 # Status emoji
 status:
-  icon: "☕️(ง •_•)ง"
+  icon: "☕️ (ง •_•)ง"
 
 # Is this the primary user of the site?
 superuser: true
@@ -44,21 +44,15 @@ education:
     date_start: 2022-09-01
     date_end: 2024-06-01
     summary: |
-      GPA: 3.21/4.0（updated）
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.21/4.0
 
-skills:
+skills:  
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
         percent: 60
         icon: code-bracket
       - name: SQL
-        description: ''
         percent: 40
         icon: circle-stack
   - name: Hobbies
@@ -92,7 +86,6 @@ awards:
     icon: expecting...
     summary: |
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
 
 ---
 
