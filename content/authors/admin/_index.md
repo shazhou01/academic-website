@@ -44,9 +44,9 @@ education:
     institution: Chongqing University of Posts and Telecommunications
     date_start: 2022-09-01
     date_end: 2024-6-01
-    summary: |
+    summary:
     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      GPA: 3.8/4.0（updated）
+      GPA: 3.21/4.0（updated）
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
