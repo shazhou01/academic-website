@@ -45,7 +45,6 @@ education:
     date_end: 2024-06-01
     summary: |
       GPA: 3.21/4.0（updated）
-
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
