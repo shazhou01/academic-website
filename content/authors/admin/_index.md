@@ -1,4 +1,3 @@
----
 # Display name
 title: 杜锦洲
 
@@ -11,7 +10,7 @@ last_name: Du
 
 # Status emoji
 status:
-  icon: ☕️(ง •_•)ง
+  icon: "☕️(ง •_•)ง"
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,32 +19,31 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role:  College Student
+role: College Student
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
   - name: Chongqing University of Posts and Telecommunications
     url: http://www.cqupt.edu.cn/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: '1915148903@qq.com'
+    url: 'mailto:1915148903@qq.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/shazhou01
+
 interests:
   - Artificial Intelligence
   - Computational Linguistics
 
 education:
-  - area:   Bachelor of Software Engineering
+  - area: Bachelor of Software Engineering
     institution: Chongqing University of Posts and Telecommunications
     date_start: 2022-09-01
-    date_end: 2024-6-01
-    summary:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_end: 2024-06-01
+    summary: |
       GPA: 3.21/4.0（updated）
 
       Courses included:
@@ -53,14 +51,12 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python
         description: ''
-        percent:60
+        percent: 60
         icon: code-bracket
       - name: SQL
         description: ''
@@ -86,21 +82,18 @@ skills:
 languages:
   - name: Chinese
     percent: 100
-  - name:  English
+  - name: English
     percent: 75
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Waiting...
     url: Waiting...
-    date: ---
+    date: TBD
     awarder: expecting...
     icon: expecting...
     summary: |
-       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 ---
 
